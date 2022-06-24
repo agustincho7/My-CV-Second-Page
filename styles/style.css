@@ -112,7 +112,7 @@ img{
 	justify-content: center;
 	align-items: center;
 	z-index: 2;
-	border-bottom: 1px solid var(--color-orange1);
+	border-bottom: 1px solid blueviolet;
 	box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.1);
 	z-index: 101;
 }
@@ -133,7 +133,7 @@ img{
 }
 
 .nav__logo h1{
-	color: var(--color-orange2);
+	color: blueviolet;
 	font-size: 2rem;
 }
 
@@ -211,14 +211,14 @@ img{
 .title__home{
 	display: flex;
 	padding: 5px 0;
-	border-bottom: 1px solid var(--color-orange1);
+	border-bottom: 1px solid blueviolet;
 }
 
 
 .img__box{
 	width: 20rem;
 	height: 20rem;
-	border: 2px solid var(--color-orange1);
+	border: 2px solid blueviolet;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -232,7 +232,7 @@ img{
 	border-radius: 50%;
 	overflow: hidden;
 	object-fit: cover;
-	border: 1px solid var(--color-orange1);
+	border: 1px solid blueviolet;
 }
 
 .button__pdf{
@@ -242,7 +242,7 @@ img{
 .download__pdf{
 	display: flex;
 	justify-content: space-between;
-	background-color: var(--color-orange1);
+	background-color: blueviolet;
 	padding: 13px;
 	color: var(--color-white);
 	cursor: pointer;
@@ -251,7 +251,7 @@ img{
 }
 
 .download__pdf:hover{
-	background-color: var(--color-orange2);
+	background-color: rgb(102, 31, 168);
 	color: var(--color-white);	
 }
 
@@ -539,7 +539,7 @@ textarea::placeholder{
 /*-----------------FOOTER------------------------*/
 
 .footer{
-	background-color: var(--color-orange1);
+	background-color: blueviolet;
 }
 
 .footer__container{
@@ -584,7 +584,7 @@ textarea::placeholder{
 	align-items: center;
 	text-align: center;
 	padding: 2rem;
-	background-color: var(--color-orange2);
+	background-color: rgb(129, 35, 216);
 }
 
 .redes_footer{
@@ -907,7 +907,7 @@ textarea::placeholder{
 .img__box{
 	width: 15rem;
 	height: 15rem;
-	border: 2px solid var(--color-orange1);
+	border: 2px solid blueviolet;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -921,7 +921,7 @@ textarea::placeholder{
 	border-radius: 50%;
 	overflow: hidden;
 	object-fit: cover;
-	border: 1px solid var(--color-orange1);
+	border: 1px solid blueviolet;
 }
 
 /*SKILLS*/
